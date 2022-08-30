@@ -15,11 +15,13 @@ Many thanks to the developers of plotly, Dash and scikit-image. Apps developped 
 ### plotly documentation
 
 https://plotly.com/python/
+
 https://plotly.com/python/imshow/ 
 
 ### Dash documentation
 
 General dash doc: https://dash.plotly.com/ 
+
 Figure annotation in Dash: https://dash.plotly.com/annotations 
 
 ### Dash gallery

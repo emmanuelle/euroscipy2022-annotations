@@ -3,7 +3,9 @@
 ### Who am I / Credits
 
 Emmanuelle Gouillart, scientific director at Saint-Gobain Recherche Paris.
+
 Also developer, contributor of scikit-image, plotly and Dash.
+
 Work funded by plotly and CZI (Chan-Zuckerberg Initiative).
 Many thanks to the developers of plotly, Dash and scikit-image. Apps developped with Sebastian Urchs and Nicholas Esterer.
 

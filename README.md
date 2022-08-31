@@ -33,7 +33,9 @@ https://dash.gallery/Portal/?search=[Image%20Processing]
 ### The three apps covered in the talk
 
 https://dash.gallery/dash-image-annotation/
+
 https://dash.gallery/dash-image-segmentation/
+
 https://dash.gallery/dash-3d-image-partitioning/ 
 
 These apps have been written together with Nicolas Kruchten, Nicholas Esterer, and Sebastian Urchs. 
